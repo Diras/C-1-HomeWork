@@ -1,0 +1,7 @@
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\3 Задание\obj\Debug\3 Задание.csprojAssemblyReference.cache
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\3 Задание\obj\Debug\3 Задание.csproj.CoreCompileInputs.cache
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\3 Задание\bin\Debug\_3_Задание.exe.config
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\3 Задание\bin\Debug\_3_Задание.exe
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\3 Задание\bin\Debug\_3_Задание.pdb
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\3 Задание\obj\Debug\_3_Задание.exe
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\3 Задание\obj\Debug\_3_Задание.pdb

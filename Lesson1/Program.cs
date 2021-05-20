@@ -5,14 +5,11 @@ namespace Lesson1
     //Автор: Ernestas Rachmangulovas
     class Program
     {
-
-        static double distance()
-          {
-            return Math.Sqrt(Math.Pow(x2-x1,2)+Math.Pow(y2-y1,2));
-          }
-
+         static double distance(double x2, double x1, double y2, double y1)
+            {
+            return Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
+            }
         
-
         static void Main(string[] args)
         {
             
@@ -117,13 +114,13 @@ namespace Lesson1
             y2 = double.Parse(Console.ReadLine());
             Console.Clear();
                         
-            Console.WriteLine($"Расстояния между точками координат = {distance:F2}");
+            Console.WriteLine($"Расстояния между точками координат = {distance(x2,x1,y2,y1):F2}");
             Console.ReadLine();
             Console.Clear();
             
             #endregion
 
-            #region
+            #region 4 Задание
 
             /*
             4. Написать программу обмена значениями двух переменных типа int без использования вспомогательных методов.
@@ -131,7 +128,18 @@ namespace Lesson1
             б) *без использования третьей переменной.
             */
 
+             // а)
 
+           int a = 1;     
+           int b = 2;     
+           int t = a;  
+           b = t;
+           
+            // b)
+
+            int x = 10;
+            int y = 20;
+            x = y;
 
 
             #endregion
@@ -141,3 +149,4 @@ namespace Lesson1
 
     }
 }
+
