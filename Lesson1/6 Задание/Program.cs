@@ -14,9 +14,8 @@ namespace _6_Задание
             Console.WriteLine(message);
         }
 
-        static void Pause(string message)   // Перегрузили метод
+        static void Pause();   
         {
-            Console.WriteLine(message);
             Console.ReadKey();
         }
 
