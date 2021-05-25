@@ -1,0 +1,6 @@
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\2 Задание\bin\Debug\_2_Задание.exe.config
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\2 Задание\bin\Debug\_2_Задание.exe
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\2 Задание\bin\Debug\_2_Задание.pdb
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\2 Задание\obj\Debug\2 Задание.csproj.CoreCompileInputs.cache
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\2 Задание\obj\Debug\_2_Задание.exe
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Lesson1\2 Задание\obj\Debug\_2_Задание.pdb
