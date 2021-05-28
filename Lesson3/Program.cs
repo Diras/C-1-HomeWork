@@ -8,72 +8,73 @@ namespace Lesson3
 {
     
     // Эрнестас Рахмангуловас
-    /*1.
-        а) Дописать структуру Complex, добавив метод вычитания комплексных чисел. Продемонстрировать работу структуры.
-        б) Дописать класс Complex, добавив методы вычитания и произведения чисел. Проверить работу класса.
-        в) Добавить диалог с использованием switch демонстрирующий работу класса.
-    */
+   
 
     
     
     class Program
     {
+        #region 1 Задание
+    /*1.
+        а) Дописать структуру Complex, добавив метод вычитания комплексных чисел. Продемонстрировать работу структуры.
+        б) Дописать класс Complex, добавив методы вычитания и произведения чисел. Проверить работу класса.
+        в) Добавить диалог с использованием switch демонстрирующий работу класса.
+    */
         class Complex
-    {
-
-        double im;
-        double re;
-
-
-        public Complex()
-        {
-            im = 0;
-            re = 0;
-        }
-
-        public Complex(double im, double re)
         {
 
-            this.im = im;
-            this.re = re;
-        }
-        public Complex Plus(Complex x2)
-        {
-            Complex x3 = new Complex();
-            x3.im = x2.im + im;
-            x3.re = x2.re + re;
-            return x3;
-        }
-        public Complex Minus(Complex x2)
-        {
-            Complex x3 = new Complex();
-            x3.im = x2.im - im;
-            x3.re = x2.re - re;
-            return x3;
-        }
-        public Complex Multi(Complex x2)
-        {
-            Complex x3 = new Complex();
-            x3.im = x2.im * im;
-            x3.re = x2.re * re;
-            return x3;
-        }
-        
-        public double Im
-        {
-            get { return im; }
-            set
+            double im;
+            double re;
+
+
+            public Complex()
+            {
+                im = 0;
+                re = 0;
+            }
+
+            public Complex(double im, double re)
             {
 
-                if (value >= 0) im = value;
+                this.im = im;
+                this.re = re;
+            }
+            public Complex Plus(Complex x2)
+            {
+                Complex x3 = new Complex();
+                x3.im = x2.im + im;
+                x3.re = x2.re + re;
+                return x3;
+            }
+            public Complex Minus(Complex x2)
+            {
+                Complex x3 = new Complex();
+                x3.im = x2.im - im;
+                x3.re = x2.re - re;
+                return x3;
+            }
+            public Complex Multi(Complex x2)
+            {
+                Complex x3 = new Complex();
+                x3.im = x2.im * im;
+                x3.re = x2.re * re;
+                return x3;
+            }
+        
+            public double Im
+            {
+                get { return im; }
+                set
+                {
+                    if (value >= 0) im = value;
+                }
+            }
+
+            public string ToString1()
+            {
+                return re + "+" + im + "i";
             }
         }
-
-        public string ToString1()
-        {
-            return re + "+" + im + "i";
-        }
-    }
         static void Task1()
         {
             Console.WriteLine();
@@ -120,7 +121,8 @@ namespace Lesson3
             }
 
         }
-         
+         #endregion 
+        #region 2 Задание
         /*2.
             а) С клавиатуры вводятся числа, пока не будет введён 0 (каждое число в новой строке). 
             Требуется подсчитать сумму всех нечётных положительных чисел. 
@@ -157,7 +159,9 @@ namespace Lesson3
             Console.ReadKey();
             
         }
-
+        #endregion
+        #region 3 Задание
+        
         static int GetInt2()
         {       
             while (true)
@@ -359,7 +363,7 @@ namespace Lesson3
             Console.ReadKey();
         
         }
-
+#endregion
 
         static void Main(string[] args)
         {
