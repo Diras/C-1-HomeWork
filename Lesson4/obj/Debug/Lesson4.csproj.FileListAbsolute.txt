@@ -1,0 +1,12 @@
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\obj\Debug\Lesson4.csproj.AssemblyReference.cache
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\bin\Debug\Lesson4.exe.config
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\bin\Debug\Lesson4.exe
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\bin\Debug\Lesson4.pdb
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\bin\Debug\ArrayLibrary1.dll
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\bin\Debug\ArrayLibrary2.dll
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\bin\Debug\ArrayLibrary1.pdb
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\bin\Debug\ArrayLibrary2.pdb
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\obj\Debug\Lesson4.csproj.CopyComplete
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\obj\Debug\Lesson4.exe
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Lesson4\obj\Debug\Lesson4.pdb

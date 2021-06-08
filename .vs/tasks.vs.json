@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-C-1-HomeWork",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Program",
+      "appliesTo": "Lesson4/Program.cs",
+      "type": "launch"
+    }
+  ]
+}

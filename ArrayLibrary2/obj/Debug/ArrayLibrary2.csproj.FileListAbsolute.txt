@@ -1,0 +1,6 @@
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\ArrayLibrary2\bin\Debug\ArrayLibrary2.dll
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\ArrayLibrary2\bin\Debug\ArrayLibrary2.pdb
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\ArrayLibrary2\obj\Debug\ArrayLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\ArrayLibrary2\obj\Debug\ArrayLibrary2.dll
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\ArrayLibrary2\obj\Debug\ArrayLibrary2.pdb
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\ArrayLibrary2\obj\Debug\ArrayLibrary2.csproj.AssemblyReference.cache
