@@ -1,0 +1,9 @@
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Ugadaika\obj\Debug\Ugadaika.Properties.Resources.resources
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Ugadaika\obj\Debug\Ugadaika.csproj.GenerateResource.cache
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\Ugadaika\obj\Debug\Ugadaika.csproj.CoreCompileInputs.cache
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Ugadaika\obj\Debug\Ugadaika.csproj.AssemblyReference.cache
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Ugadaika\bin\Debug\Ugadaika.exe.config
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Ugadaika\bin\Debug\Ugadaika.exe
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Ugadaika\bin\Debug\Ugadaika.pdb
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Ugadaika\obj\Debug\Ugadaika.exe
+C:\Users\Ernest-PC\source\repos\C-1-HomeWork\Ugadaika\obj\Debug\Ugadaika.pdb
