@@ -1,0 +1,9 @@
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\2.NumericUpDown\bin\Debug\2.NumericUpDown.exe.config
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\2.NumericUpDown\bin\Debug\2.NumericUpDown.exe
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\2.NumericUpDown\bin\Debug\2.NumericUpDown.pdb
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\2.NumericUpDown\obj\Debug\2.NumericUpDown.csproj.AssemblyReference.cache
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\2.NumericUpDown\obj\Debug\_2.NumericUpDown.Properties.Resources.resources
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\2.NumericUpDown\obj\Debug\2.NumericUpDown.csproj.GenerateResource.cache
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\2.NumericUpDown\obj\Debug\2.NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\2.NumericUpDown\obj\Debug\2.NumericUpDown.exe
+C:\Users\Ernest-PC\Source\Repos\C-1-HomeWork\2.NumericUpDown\obj\Debug\2.NumericUpDown.pdb
